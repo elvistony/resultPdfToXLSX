@@ -6,6 +6,7 @@ Features:
 * Command Line Interface
 * Simple Functionality
 * Modular Code based on Multiple Functions
+* Clean-up Function to remove Intermediate Data files
 
 Instructions:
 
