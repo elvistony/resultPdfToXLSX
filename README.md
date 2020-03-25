@@ -15,7 +15,11 @@ Instructions:
   * Pandas 
     * `pip3 install pandas`
   * Pdf2Py
-    * `pip install pdfminer` (pdf2text.py)
+    * `pip3 install pdfminer`
+  * OpenPyXl
+    * `pip3 install openpyxl`
+  * XLSXWriter
+    * `pip3 install xlsxwriter`
 * Execute the Script using *Python 3* or above
 * Enter the file Name of the Source File (PDF)
   * The Script will detect the Branches Automatically
