@@ -1,5 +1,7 @@
 # Result (KTU) PDF to XLSX 
-### (A script to convert Tabular PDF to XLSX)
+### A script to convert Tabular PDF to XLSX
+
+This script is used to convert our University's Results (provided in Tabular PDF) to an XLSX Format, removing unwanted data.
 
 Features:
 * Uses Pure python3 Code
@@ -8,6 +10,7 @@ Features:
 * Now Includes support for 2 Conversion Engines
 * Modular Code based on Multiple Functions
 * Clean-up Function to remove Intermediate Data files
+* Also attempts to install missing packages `pip3`
 
 Instructions:
 
@@ -80,3 +83,8 @@ follow the Support Wizard and you're done!
         CleanUp : Clear Cached Files? y/n : y
         CleanUp :  Success
                         COMPLETE
+
+#### Future Updates
+
+* Support for complete CLI support `-c -s` arguments
+* More robust code that supports other PDFs as well
